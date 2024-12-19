@@ -10,6 +10,6 @@ The implementation was made in Python using Tensorflow and included three approa
 ## RESULTS 
 Results were highly satisfactory. For PM10 and PM25 were predicted with less than 1.5% error in small time periods and less than 10% error in 24 hours predictions. For example, for a concrete prediction of NO2:
 
-![Example](https://drive.google.com/file/d/1j4u7eFzdtFwsbC0lhz6Uz7orl4O-bLnC/view?usp=sharing)
+![Example](/Example.png)
 
 
