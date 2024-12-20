@@ -9,7 +9,7 @@ The implementation was made in Python using Tensorflow and included three approa
 
 ## RESULTS 
 Results were highly satisfactory. For PM10 and PM25 were predicted with less than 1.5% error in small time periods and less than 10% error in 24 hours predictions. NO2 and SO2 were forecasted with a higher error (up to 30%) but the neural network was proved to be effective under certain normal conditions (such as no rain or high sudden changes). 
-For example, for a concrete prediction of NO2:
+For example, for a prediction of NO2:
 
 ![Example](/Example.png)
 
